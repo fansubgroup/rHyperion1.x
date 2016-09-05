@@ -24,7 +24,7 @@ There are:
 
 **Because the .so library of the Go-lang took up 7+ M space,so I compressed it as a .rar file.**
 
-**Therefore ,if you want to use the http get engine of Golang,please extract it from the .rar file at first. **
+**Therefore,if you want to use the http get engine of Golang,please extract it from the .rar file at first.**
 
 ### How to use these tool?
 
